@@ -1,4 +1,4 @@
-#  About Me:
+#  Sobre mim:
  Olá! Seja bem-vindo ao meu GitHub!<br><br>Sou estudante de Ciência da Computação na UNICID e estou iniciando minha jornada na área de tecnologia e desenvolvimento de software.<br><br>Tenho interesse em programação, desenvolvimento de sistemas e novas tecnologias. Estou sempre buscando aprender, aprimorar minhas habilidades e transformar conhecimentos em projetos práticos.<br><br> Este GitHub é o espaço onde compartilho meus projetos, meus estudos e minha evolução como desenvolvedor.<br><br> Atualmente, estou focado em:<br><br>Aprender e praticar programação;<br>Desenvolver projetos para aprimorar minhas habilidades;<br>Explorar novas tecnologias e ferramentas;<br>Construir minha carreira na área de tecnologia.<br><br> Estou aberto a aprender, colaborar em projetos e trocar conhecimentos com outros desenvolvedores.<br><br>Obrigado por visitar meu perfil
 
 
